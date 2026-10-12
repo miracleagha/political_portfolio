@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Youth engagement placeholder">
+  <rect width="600" height="450" fill="#E7F5F1"/>
+  <circle cx="500" cy="80" r="60" fill="#FCD53F" opacity="0.7"/>
+  <rect y="310" width="600" height="140" fill="#B9DED4"/>
+  <g>
+    <g transform="translate(80,250)">
+      <circle cx="40" cy="40" r="26" fill="#6E4428"/>
+      <path d="M0 200 C 10 110, 70 110, 80 200 Z" fill="#0F9D8F"/>
+    </g>
+    <g transform="translate(220,230)">
+      <circle cx="40" cy="40" r="26" fill="#8A5A3B"/>
+      <path d="M0 200 C 10 110, 70 110, 80 200 Z" fill="#FCD53F"/>
+    </g>
+    <g transform="translate(360,250)">
+      <circle cx="40" cy="40" r="26" fill="#5A3A24"/>
+      <path d="M0 200 C 10 110, 70 110, 80 200 Z" fill="#004A8F"/>
+    </g>
+    <g transform="translate(480,240)">
+      <circle cx="40" cy="40" r="26" fill="#6E4428"/>
+      <path d="M0 200 C 10 110, 70 110, 80 200 Z" fill="#28A745"/>
+    </g>
+  </g>
+  <text x="300" y="435" text-anchor="middle" font-family="Montserrat, sans-serif" font-weight="800" font-size="11" fill="#6B7A8A" letter-spacing="2">YOUTH ENGAGEMENT · PLACEHOLDER</text>
+</svg>

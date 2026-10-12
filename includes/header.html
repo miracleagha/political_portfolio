@@ -1,0 +1,39 @@
+<!--
+  Shared header reference snippet.
+  All pages inline an identical copy of this markup for a static site.
+  If migrated to PHP, replace the inlined copy with:  <?php include 'includes/header.php'; ?>
+-->
+<header>
+  <nav class="navbar navbar-expand-lg fixed-top bub-navbar" aria-label="Primary">
+    <div class="container">
+      <a class="navbar-brand p-0" href="index.html" aria-label="BUB home">
+        <div class="brand-lockup">
+          <div class="brand-mark" aria-hidden="true">BUB</div>
+          <div class="brand-text">
+            <span class="brand-name">Hon. Blessing Ufedojo Benyeogor</span>
+            <span class="brand-sub">BUB · Public Leadership &amp; Community Engagement</span>
+          </div>
+        </div>
+      </a>
+      <button class="navbar-toggler ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#primaryNav" aria-controls="primaryNav" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="bi bi-list fs-4" aria-hidden="true"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="primaryNav">
+        <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-1">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="agenda.html">Our Agenda</a></li>
+          <li class="nav-item"><a class="nav-link" href="news.html">News &amp; Updates</a></li>
+          <li class="nav-item"><a class="nav-link" href="gallery.html">Media Gallery</a></li>
+          <li class="nav-item"><a class="nav-link" href="community-voices.html">Community Voices</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+          <li class="nav-item ms-lg-2 mt-2 mt-lg-0">
+            <a class="btn btn-primary-bub btn-icon-arrow" href="volunteer.html">
+              Join the Movement <i class="bi bi-arrow-right" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

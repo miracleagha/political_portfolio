@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Portrait placeholder — Hon. Blessing Ufedojo Benyeogor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#004A8F"/>
+      <stop offset="1" stop-color="#0059A8"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8A5A3B"/>
+      <stop offset="1" stop-color="#6E4428"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#bg)"/>
+  <circle cx="60" cy="60" r="140" fill="#FCD53F" opacity="0.18"/>
+  <circle cx="360" cy="420" r="110" fill="#28A745" opacity="0.22"/>
+  <!-- shoulders -->
+  <path d="M60 500 C 90 380, 150 340, 200 340 C 250 340, 310 380, 340 500 Z" fill="#002C56"/>
+  <!-- head -->
+  <ellipse cx="200" cy="235" rx="78" ry="92" fill="url(#skin)"/>
+  <!-- hair -->
+  <path d="M122 220 C 118 150, 165 110, 200 108 C 240 108, 282 150, 278 220 C 275 190, 240 170, 200 172 C 160 170, 125 190, 122 220 Z" fill="#2A1E13"/>
+  <!-- subtle smile -->
+  <path d="M180 275 Q 200 288 220 275" stroke="#3B2615" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- yellow pin -->
+  <circle cx="155" cy="415" r="10" fill="#FCD53F" stroke="#fff" stroke-width="2"/>
+  <text x="200" y="475" text-anchor="middle" font-family="Montserrat, sans-serif" font-weight="800" font-size="14" fill="#9BB8D9" letter-spacing="2">PORTRAIT PLACEHOLDER</text>
+</svg>
